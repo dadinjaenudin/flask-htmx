@@ -1,0 +1,10 @@
+python -m venv env
+pip install -r requirments.xt
+git init
+
+# create git .gitignore
+.env
+
+# create github repository 
+flask-htmx
+
