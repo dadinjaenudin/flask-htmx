@@ -8,3 +8,11 @@ git init
 # create github repository 
 flask-htmx
 
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dadinjaenudin/flask-htmx.git
+git push -u origin main
+
